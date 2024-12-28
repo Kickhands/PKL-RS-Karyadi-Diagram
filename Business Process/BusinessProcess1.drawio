@@ -7,8 +7,8 @@
         <mxCell id="GNXbmUJe4ZyUbetsLbS8-1" value="Dokter" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="400" y="70" width="340" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="GNXbmUJe4ZyUbetsLbS8-22" value="Tenaga Medis Diagnosa Penyakit&amp;nbsp;" style="rhombus=1;whiteSpace=wrap;html=1;" vertex="1" parent="GNXbmUJe4ZyUbetsLbS8-1">
-          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="GNXbmUJe4ZyUbetsLbS8-29" value="Diagnosa Penyakit&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GNXbmUJe4ZyUbetsLbS8-1">
+          <mxGeometry x="90" y="300" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GNXbmUJe4ZyUbetsLbS8-15" value="Tenaga Medis" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="340" height="690" as="geometry" />
@@ -40,10 +40,12 @@
         <mxCell id="GNXbmUJe4ZyUbetsLbS8-26" value="Penyesuaian Diagnosa dengan code ICD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GNXbmUJe4ZyUbetsLbS8-15">
           <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GNXbmUJe4ZyUbetsLbS8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNXbmUJe4ZyUbetsLbS8-21" target="GNXbmUJe4ZyUbetsLbS8-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GNXbmUJe4ZyUbetsLbS8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GNXbmUJe4ZyUbetsLbS8-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="480" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="GNXbmUJe4ZyUbetsLbS8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNXbmUJe4ZyUbetsLbS8-22" target="GNXbmUJe4ZyUbetsLbS8-24">
+        <mxCell id="GNXbmUJe4ZyUbetsLbS8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNXbmUJe4ZyUbetsLbS8-21" target="GNXbmUJe4ZyUbetsLbS8-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
