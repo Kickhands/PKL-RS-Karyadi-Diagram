@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram name="Page-1" id="EtaP9dJmNPpNIkBdqt-V">
-    <mxGraphModel dx="969" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
           <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNXbmUJe4ZyUbetsLbS8-21" value="Input Data Pribadi Pasien&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GNXbmUJe4ZyUbetsLbS8-15">
-          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNXbmUJe4ZyUbetsLbS8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GNXbmUJe4ZyUbetsLbS8-15" source="GNXbmUJe4ZyUbetsLbS8-24" target="GNXbmUJe4ZyUbetsLbS8-26">
           <mxGeometry relative="1" as="geometry" />
