@@ -7,7 +7,7 @@
         <mxCell id="GNXbmUJe4ZyUbetsLbS8-1" value="Dokter" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="400" y="70" width="340" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="GNXbmUJe4ZyUbetsLbS8-22" value="Tenaga Medis Diagnosa Penyakit&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GNXbmUJe4ZyUbetsLbS8-1">
+        <mxCell id="GNXbmUJe4ZyUbetsLbS8-22" value="Tenaga Medis Diagnosa Penyakit&amp;nbsp;" style="rhombus=1;whiteSpace=wrap;html=1;" vertex="1" parent="GNXbmUJe4ZyUbetsLbS8-1">
           <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNXbmUJe4ZyUbetsLbS8-15" value="Tenaga Medis" style="swimlane;" vertex="1" parent="1">
